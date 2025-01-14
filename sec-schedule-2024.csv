@@ -1,0 +1,65 @@
+home,visitor,is_neutral_site
+Kentucky,South Carolina,false
+South Carolina,LSU,false
+Florida,Texas A&M,false
+Kentucky,Georgia,false
+Mississippi State,Florida,false
+Auburn,Arkansas,false
+Missouri,Vanderbilt,false
+Oklahoma,Tennessee,false
+Ole Miss,Kentucky,false
+Texas A&M,Arkansas,true
+Auburn,Oklahoma,false
+Texas,Mississippi State,false
+Alabama,Georgia,false
+Texas A&M,Missouri,false
+South Carolina,Ole Miss,false
+Georgia,Auburn,false
+Vanderbilt,Alabama,false
+Arkansas,Tennessee,false
+Alabama,South Carolina,false
+Oklahoma,Texas,true
+Georgia,Mississippi State,false
+Tennessee,Florida,false
+LSU,Ole Miss,false
+Kentucky,Vanderbilt,false
+Missouri,Auburn,false
+Oklahoma,South Carolina,false
+Tennessee,Alabama,false
+Mississippi State,Texas A&M,false
+Arkansas,LSU,false
+Texas,Georgia,false
+Florida,Kentucky,false
+Ole Miss,Oklahoma,false
+Mississippi State,Arkansas,false
+Alabama,Missouri,false
+Vanderbilt,Texas,false
+Texas A&M,LSU,false
+Kentucky,Auburn,false
+Arkansas,Ole Miss,false
+Auburn,Vanderbilt,false
+Georgia,Florida,true
+South Carolina,Texas A&M,false
+Tennessee,Kentucky,false
+Texas,Florida,false
+Ole Miss,Georgia,false
+Vanderbilt,South Carolina,false
+Tennessee,Mississippi State,false
+LSU,Alabama,false
+Missouri,Oklahoma,false
+Arkansas,Texas,false
+Florida,LSU,false
+South Carolina,Missouri,false
+Georgia,Tennessee,false
+Florida,Ole Miss,false
+Texas,Kentucky,false
+Mississippi State,Missouri,false
+Auburn,Texas A&M,false
+Oklahoma,Alabama,false
+LSU,Vanderbilt,false
+Ole Miss,Mississippi State,false
+Vanderbilt,Tennessee,false
+Missouri,Arkansas,false
+Alabama,Auburn,false
+LSU,Oklahoma,false
+Texas A&M,Texas,false
