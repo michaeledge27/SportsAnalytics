@@ -1,0 +1,875 @@
+index,home,visitor,is_neutral_site
+707,Air Force,Oregon State,false
+674,Air Force,Fresno State,false
+518,Air Force,Colorado State,false
+368,Air Force,Navy,false
+154,Air Force,San José State,false
+50,Air Force,FCS,false
+797,Akron,Toledo,false
+593,Akron,Buffalo,false
+546,Akron,Eastern Michigan,false
+381,Akron,Bowling Green,false
+215,Akron,FCS,false
+842,Alabama,Auburn,false
+698,Alabama,FCS,false
+558,Alabama,Missouri,false
+424,Alabama,South Carolina,false
+349,Alabama,Georgia,false
+149,Alabama,South Florida,false
+71,Alabama,Western Kentucky,false
+757,App State,James Madison,false
+601,App State,Old Dominion,false
+540,App State,Georgia State,false
+327,App State,Liberty,false
+241,App State,South Alabama,false
+54,App State,FCS,false
+843,Arizona,Arizona State,false
+687,Arizona,Houston,false
+565,Arizona,West Virginia,false
+502,Arizona,Colorado,false
+409,Arizona,Texas Tech,false
+171,Arizona,FCS,false
+95,Arizona,New Mexico,false
+868,Arizona State,Iowa State,true
+765,Arizona State,BYU,false
+663,Arizona State,UCF,false
+417,Arizona State,Utah,false
+407,Arizona State,Kansas,false
+175,Arizona State,Mississippi State,false
+96,Arizona State,Wyoming,false
+777,Arkansas,Louisiana Tech,false
+694,Arkansas,Texas,false
+595,Arkansas,Ole Miss,false
+510,Arkansas,LSU,false
+399,Arkansas,Tennessee,false
+207,Arkansas,UAB,false
+12,Arkansas,FCS,true
+832,Arkansas State,Old Dominion,false
+762,Arkansas State,UL Monroe,false
+564,Arkansas State,Troy,false
+393,Arkansas State,South Alabama,false
+153,Arkansas State,Tulsa,false
+68,Arkansas State,FCS,false
+873,Army,Navy,true
+865,Army,Tulane,false
+820,Army,UTSA,false
+589,Army,Air Force,false
+482,Army,East Carolina,false
+423,Army,UAB,false
+248,Army,Rice,false
+25,Army,FCS,false
+788,Auburn,Texas A&M,false
+695,Auburn,UL Monroe,false
+599,Auburn,Vanderbilt,false
+328,Auburn,Oklahoma,false
+266,Auburn,Arkansas,false
+233,Auburn,New Mexico,false
+132,Auburn,California,false
+80,Auburn,FCS,false
+861,BYU,Houston,false
+730,BYU,Kansas,false
+471,BYU,Oklahoma State,false
+442,BYU,Arizona,false
+303,BYU,Kansas State,false
+90,BYU,FCS,false
+754,Ball State,Bowling Green,false
+628,Ball State,Miami (OH),false
+544,Ball State,Northern Illinois,false
+378,Ball State,Western Michigan,false
+116,Ball State,FCS,false
+816,Baylor,Kansas,false
+625,Baylor,TCU,false
+553,Baylor,Oklahoma State,false
+314,Baylor,BYU,false
+228,Baylor,Air Force,false
+70,Baylor,FCS,false
+866,Boise State,UNLV,false
+805,Boise State,Oregon State,false
+671,Boise State,Nevada,false
+586,Boise State,San Diego State,false
+398,Boise State,Utah State,false
+358,Boise State,Washington State,false
+302,Boise State,FCS,false
+831,Boston College,Pittsburgh,false
+748,Boston College,North Carolina,false
+640,Boston College,Syracuse,false
+527,Boston College,Louisville,false
+318,Boston College,Western Kentucky,false
+298,Boston College,Michigan State,false
+128,Boston College,FCS,false
+803,Bowling Green,Miami (OH),false
+677,Bowling Green,Western Michigan,false
+486,Bowling Green,Kent State,false
+428,Bowling Green,Northern Illinois,false
+340,Bowling Green,Old Dominion,false
+5,Bowling Green,FCS,false
+798,Buffalo,Kent State,false
+679,Buffalo,Ball State,false
+487,Buffalo,Western Michigan,false
+422,Buffalo,Toledo,false
+192,Buffalo,Massachusetts,false
+10,Buffalo,FCS,false
+767,California,Stanford,false
+704,California,Syracuse,false
+559,California,Oregon State,false
+499,California,NC State,false
+408,California,Miami,false
+240,California,San Diego State,false
+60,California,FCS,false
+733,Central Michigan,Western Michigan,false
+627,Central Michigan,Bowling Green,false
+441,Central Michigan,Ohio,false
+330,Central Michigan,San Diego State,false
+256,Central Michigan,Ball State,false
+9,Central Michigan,FCS,false
+840,Charlotte,UAB,false
+708,Charlotte,South Florida,false
+583,Charlotte,Tulane,false
+380,Charlotte,East Carolina,false
+216,Charlotte,FCS,false
+91,Charlotte,James Madison,false
+849,Cincinnati,TCU,false
+643,Cincinnati,West Virginia,false
+479,Cincinnati,Arizona State,false
+246,Cincinnati,Houston,false
+105,Cincinnati,Pittsburgh,false
+43,Cincinnati,FCS,false
+814,Clemson,South Carolina,false
+774,Clemson,FCS,false
+620,Clemson,Louisville,false
+474,Clemson,Virginia,false
+348,Clemson,Stanford,false
+250,Clemson,NC State,false
+167,Clemson,App State,false
+766,Coastal Carolina,Georgia Southern,false
+631,Coastal Carolina,App State,false
+481,Coastal Carolina,Louisiana,false
+397,Coastal Carolina,Old Dominion,false
+259,Coastal Carolina,Virginia,false
+152,Coastal Carolina,FCS,false
+800,Colorado,Oklahoma State,false
+693,Colorado,Utah,false
+575,Colorado,Cincinnati,false
+460,Colorado,Kansas State,false
+299,Colorado,Baylor,false
+20,Colorado,FCS,false
+809,Colorado State,Utah State,false
+685,Colorado State,Wyoming,false
+561,Colorado State,New Mexico,false
+438,Colorado State,San José State,false
+279,Colorado State,UTEP,false
+226,Colorado State,Colorado,false
+150,Colorado State,FCS,false
+793,Duke,Virginia Tech,false
+572,Duke,SMU,false
+469,Duke,Florida State,false
+337,Duke,North Carolina,false
+211,Duke,UConn,false
+28,Duke,FCS,false
+801,East Carolina,Navy,false
+632,East Carolina,Florida Atlantic,false
+541,East Carolina,Temple,false
+338,East Carolina,UTSA,false
+205,East Carolina,App State,false
+64,East Carolina,FCS,false
+736,Eastern Michigan,Buffalo,false
+587,Eastern Michigan,Toledo,false
+485,Eastern Michigan,Central Michigan,false
+427,Eastern Michigan,Miami (OH),false
+258,Eastern Michigan,FCS,false
+221,Eastern Michigan,Jacksonville State,false
+742,Florida,Ole Miss,false
+706,Florida,LSU,false
+516,Florida,Kentucky,false
+404,Florida,UCF,false
+197,Florida,Texas A&M,false
+151,Florida,FCS,false
+46,Florida,Miami,false
+760,Florida Atlantic,Charlotte,false
+585,Florida Atlantic,South Florida,false
+449,Florida Atlantic,North Texas,false
+341,Florida Atlantic,FCS,false
+209,Florida Atlantic,Florida International,false
+104,Florida Atlantic,Army,false
+828,Florida International,Middle Tennessee,true
+578,Florida International,New Mexico State,true
+521,Florida International,Sam Houston,true
+342,Florida International,Louisiana Tech,true
+282,Florida International,FCS,true
+139,Florida International,Central Michigan,true
+853,Florida State,Florida,false
+753,Florida State,FCS,false
+604,Florida State,North Carolina,false
+394,Florida State,Clemson,false
+289,Florida State,California,false
+189,Florida State,Memphis,false
+99,Florida State,Boston College,false
+796,Fresno State,Colorado State,false
+617,Fresno State,Hawai'i,false
+574,Fresno State,San José State,false
+445,Fresno State,Washington State,false
+239,Fresno State,New Mexico State,false
+172,Fresno State,FCS,false
+811,Georgia,Georgia Tech,false
+750,Georgia,Massachusetts,false
+724,Georgia,Tennessee,false
+611,Georgia,Florida,true
+443,Georgia,Mississippi State,false
+382,Georgia,Auburn,false
+115,Georgia,FCS,false
+32,Georgia,Clemson,true
+850,Georgia Southern,App State,false
+713,Georgia Southern,Troy,false
+503,Georgia Southern,James Madison,false
+458,Georgia Southern,Marshall,false
+214,Georgia Southern,FCS,false
+58,Georgia Southern,Boise State,false
+829,Georgia State,Coastal Carolina,false
+717,Georgia State,Arkansas State,false
+436,Georgia State,Old Dominion,false
+323,Georgia State,Georgia Southern,false
+223,Georgia State,Vanderbilt,false
+157,Georgia State,FCS,false
+737,Georgia Tech,NC State,false
+639,Georgia Tech,Miami,false
+494,Georgia Tech,Notre Dame,true
+406,Georgia Tech,Duke,false
+203,Georgia Tech,FCS,false
+92,Georgia Tech,Georgia State,false
+0,Georgia Tech,Florida State,true
+863,Hawai'i,New Mexico,false
+673,Hawai'i,UNLV,false
+577,Hawai'i,Nevada,false
+461,Hawai'i,Boise State,false
+304,Hawai'i,FCS,false
+79,Hawai'i,UCLA,false
+3,Hawai'i,FCS,false
+782,Houston,Baylor,false
+603,Houston,Kansas State,false
+567,Houston,Utah,false
+347,Houston,Iowa State,false
+237,Houston,Rice,false
+72,Houston,UNLV,false
+701,Illinois,Michigan State,false
+597,Illinois,Minnesota,false
+498,Illinois,Michigan,false
+433,Illinois,Purdue,false
+183,Illinois,Central Michigan,false
+147,Illinois,Kansas,false
+22,Illinois,FCS,false
+852,Indiana,Purdue,false
+650,Indiana,Michigan,false
+533,Indiana,Washington,false
+480,Indiana,Nebraska,false
+319,Indiana,Maryland,false
+251,Indiana,Charlotte,false
+101,Indiana,FCS,false
+55,Indiana,Florida International,false
+812,Iowa,Nebraska,false
+618,Iowa,Wisconsin,false
+543,Iowa,Northwestern,false
+420,Iowa,Washington,false
+206,Iowa,Troy,false
+123,Iowa,Iowa State,false
+37,Iowa,FCS,false
+856,Iowa State,Kansas State,false
+728,Iowa State,Cincinnati,false
+608,Iowa State,Texas Tech,false
+515,Iowa State,UCF,false
+400,Iowa State,Baylor,false
+260,Iowa State,Arkansas State,false
+51,Iowa State,FCS,false
+864,Jacksonville State,Western Kentucky,false
+741,Jacksonville State,Sam Houston,false
+699,Jacksonville State,Florida International,false
+524,Jacksonville State,Middle Tennessee,false
+411,Jacksonville State,New Mexico State,false
+261,Jacksonville State,Southern Miss,false
+19,Jacksonville State,Coastal Carolina,false
+858,James Madison,Marshall,false
+652,James Madison,Georgia State,false
+545,James Madison,Southern Miss,false
+412,James Madison,Coastal Carolina,false
+320,James Madison,Ball State,false
+140,James Madison,FCS,false
+764,Kansas,Colorado,true
+648,Kansas,Iowa State,true
+492,Kansas,Houston,true
+332,Kansas,TCU,true
+180,Kansas,UNLV,true
+16,Kansas,FCS,true
+792,Kansas State,Cincinnati,false
+722,Kansas State,Arizona State,false
+573,Kansas State,Kansas,false
+308,Kansas State,Oklahoma State,false
+181,Kansas State,Arizona,false
+75,Kansas State,FCS,false
+758,Kennesaw State,Florida International,false
+703,Kennesaw State,Sam Houston,false
+523,Kennesaw State,Liberty,false
+363,Kennesaw State,Jacksonville State,false
+343,Kennesaw State,FCS,false
+158,Kennesaw State,Louisiana,false
+732,Kent State,Akron,false
+630,Kent State,Ohio,false
+418,Kent State,Ball State,false
+334,Kent State,Eastern Michigan,false
+117,Kent State,FCS,false
+817,Kentucky,Louisville,false
+697,Kentucky,FCS,false
+571,Kentucky,Auburn,false
+455,Kentucky,Vanderbilt,false
+255,Kentucky,Ohio,false
+227,Kentucky,Georgia,false
+122,Kentucky,South Carolina,false
+85,Kentucky,Southern Miss,false
+854,LSU,Oklahoma,false
+791,LSU,Vanderbilt,false
+667,LSU,Alabama,false
+454,LSU,Ole Miss,false
+353,LSU,South Alabama,false
+265,LSU,UCLA,false
+163,LSU,FCS,false
+98,LSU,USC,true
+752,Liberty,Western Kentucky,false
+581,Liberty,Jacksonville State,false
+410,Liberty,Florida International,false
+281,Liberty,East Carolina,false
+210,Liberty,UTEP,false
+66,Liberty,FCS,false
+870,Louisiana,Marshall,false
+781,Louisiana,Troy,false
+719,Louisiana,South Alabama,false
+661,Louisiana,Arkansas State,false
+453,Louisiana,App State,false
+254,Louisiana,Tulane,false
+89,Louisiana,FCS,false
+846,Louisiana Tech,Kennesaw State,false
+660,Louisiana Tech,Jacksonville State,false
+522,Louisiana Tech,UTEP,false
+413,Louisiana Tech,Middle Tennessee,false
+288,Louisiana Tech,Tulsa,false
+87,Louisiana Tech,FCS,false
+778,Louisville,Pittsburgh,false
+476,Louisville,Miami,false
+369,Louisville,SMU,false
+268,Louisville,Georgia Tech,false
+130,Louisville,Jacksonville State,false
+39,Louisville,FCS,false
+696,Marshall,Coastal Carolina,false
+607,Marshall,UL Monroe,false
+467,Marshall,Georgia State,false
+385,Marshall,App State,false
+329,Marshall,Western Michigan,false
+61,Marshall,FCS,false
+745,Maryland,Iowa,false
+718,Maryland,Rutgers,false
+504,Maryland,USC,false
+415,Maryland,Northwestern,false
+247,Maryland,FCS,false
+121,Maryland,Michigan State,false
+38,Maryland,UConn,false
+823,Massachusetts,UConn,false
+691,Massachusetts,Liberty,false
+547,Massachusetts,FCS,false
+425,Massachusetts,Missouri,false
+269,Massachusetts,FCS,false
+57,Massachusetts,Eastern Michigan,false
+727,Memphis,UAB,false
+634,Memphis,Rice,false
+534,Memphis,Charlotte,false
+512,Memphis,North Texas,false
+352,Memphis,Middle Tennessee,false
+110,Memphis,Troy,false
+69,Memphis,FCS,false
+747,Miami,Wake Forest,false
+590,Miami,Duke,false
+566,Miami,Florida State,false
+306,Miami,Virginia Tech,false
+196,Miami,Ball State,false
+141,Miami,FCS,false
+867,Miami (OH),Ohio,true
+734,Miami (OH),Northern Illinois,false
+681,Miami (OH),Kent State,false
+542,Miami (OH),Central Michigan,false
+488,Miami (OH),Ohio,false
+322,Miami (OH),Massachusetts,false
+185,Miami (OH),Cincinnati,false
+771,Michigan,Northwestern,false
+606,Michigan,Oregon,false
+568,Michigan,Michigan State,false
+317,Michigan,Minnesota,false
+273,Michigan,USC,false
+184,Michigan,Arkansas State,false
+106,Michigan,Texas,false
+83,Michigan,Fresno State,false
+841,Michigan State,Rutgers,false
+739,Michigan State,Purdue,false
+610,Michigan State,Indiana,false
+514,Michigan State,Iowa,false
+350,Michigan State,Ohio State,false
+198,Michigan State,FCS,false
+26,Michigan State,Florida Atlantic,false
+756,Middle Tennessee,New Mexico State,false
+645,Middle Tennessee,Liberty,false
+463,Middle Tennessee,Kennesaw State,false
+277,Middle Tennessee,Duke,false
+219,Middle Tennessee,Western Kentucky,false
+77,Middle Tennessee,FCS,false
+772,Minnesota,Penn State,false
+555,Minnesota,Maryland,false
+403,Minnesota,USC,false
+292,Minnesota,Iowa,false
+195,Minnesota,Nevada,false
+112,Minnesota,FCS,false
+21,Minnesota,North Carolina,false
+780,Mississippi State,Missouri,false
+616,Mississippi State,Massachusetts,false
+539,Mississippi State,Arkansas,false
+507,Mississippi State,Texas A&M,false
+245,Mississippi State,Florida,false
+234,Mississippi State,Toledo,false
+65,Mississippi State,FCS,false
+844,Missouri,Arkansas,false
+669,Missouri,Oklahoma,false
+473,Missouri,Auburn,false
+278,Missouri,Vanderbilt,false
+191,Missouri,Boston College,false
+148,Missouri,Buffalo,false
+15,Missouri,FCS,false
+649,NC State,Duke,false
+598,NC State,Stanford,false
+456,NC State,Syracuse,false
+376,NC State,Wake Forest,false
+316,NC State,Northern Illinois,false
+187,NC State,Louisiana Tech,false
+161,NC State,Tennessee,true
+7,NC State,FCS,false
+689,Navy,Tulane,false
+536,Navy,Notre Dame,true
+491,Navy,Charlotte,false
+267,Navy,Memphis,false
+126,Navy,Temple,false
+35,Navy,FCS,false
+763,Nebraska,Wisconsin,false
+609,Nebraska,UCLA,false
+390,Nebraska,Rutgers,false
+243,Nebraska,Illinois,false
+229,Nebraska,FCS,false
+165,Nebraska,Colorado,false
+53,Nebraska,UTEP,false
+794,Nevada,Air Force,false
+626,Nevada,Colorado State,false
+472,Nevada,Fresno State,false
+451,Nevada,Oregon State,false
+262,Nevada,FCS,false
+143,Nevada,Georgia Southern,false
+2,Nevada,SMU,false
+729,New Mexico,Washington State,false
+615,New Mexico,Wyoming,false
+450,New Mexico,Air Force,false
+300,New Mexico,Fresno State,false
+1,New Mexico,FCS,false
+848,New Mexico State,UTEP,false
+662,New Mexico State,Western Kentucky,false
+464,New Mexico State,Louisiana Tech,false
+356,New Mexico State,New Mexico,false
+174,New Mexico State,Liberty,false
+94,New Mexico State,FCS,false
+838,North Carolina,NC State,false
+726,North Carolina,Wake Forest,false
+419,North Carolina,Georgia Tech,false
+374,North Carolina,Pittsburgh,false
+252,North Carolina,James Madison,false
+213,North Carolina,FCS,false
+119,North Carolina,Charlotte,false
+776,North Texas,East Carolina,false
+655,North Texas,Army,false
+538,North Texas,Tulane,false
+346,North Texas,Tulsa,false
+290,North Texas,Wyoming,false
+162,North Texas,FCS,false
+834,Northern Illinois,Central Michigan,false
+680,Northern Illinois,Akron,false
+493,Northern Illinois,Toledo,false
+373,Northern Illinois,Massachusetts,false
+263,Northern Illinois,Buffalo,false
+52,Northern Illinois,FCS,false
+822,Northwestern,Illinois,true
+692,Northwestern,Ohio State,true
+477,Northwestern,Wisconsin,true
+388,Northwestern,Indiana,true
+231,Northwestern,FCS,true
+102,Northwestern,Duke,true
+48,Northwestern,Miami (OH),true
+783,Notre Dame,Army,true
+709,Notre Dame,Virginia,false
+668,Notre Dame,Florida State,false
+429,Notre Dame,Stanford,false
+335,Notre Dame,Louisville,false
+271,Notre Dame,Miami (OH),false
+131,Notre Dame,Northern Illinois,false
+804,Ohio,Ball State,false
+682,Ohio,Eastern Michigan,false
+535,Ohio,Buffalo,false
+324,Ohio,Akron,false
+201,Ohio,FCS,false
+136,Ohio,South Alabama,false
+821,Ohio State,Michigan,false
+744,Ohio State,Indiana,false
+638,Ohio State,Purdue,false
+531,Ohio State,Nebraska,false
+384,Ohio State,Iowa,false
+253,Ohio State,Marshall,false
+160,Ohio State,Western Michigan,false
+56,Ohio State,Akron,false
+787,Oklahoma,Alabama,false
+588,Oklahoma,FCS,false
+483,Oklahoma,South Carolina,false
+430,Oklahoma,Texas,true
+294,Oklahoma,Tennessee,false
+200,Oklahoma,Tulane,false
+166,Oklahoma,Houston,false
+27,Oklahoma,Temple,false
+769,Oklahoma State,Texas Tech,false
+602,Oklahoma State,Arizona State,false
+389,Oklahoma State,West Virginia,false
+276,Oklahoma State,Utah,false
+111,Oklahoma State,Arkansas,false
+42,Oklahoma State,FCS,false
+789,Old Dominion,Marshall,false
+712,Old Dominion,James Madison,false
+525,Old Dominion,Georgia Southern,false
+489,Old Dominion,Texas State,false
+212,Old Dominion,Virginia Tech,false
+138,Old Dominion,East Carolina,false
+806,Ole Miss,Mississippi State,false
+651,Ole Miss,Georgia,false
+532,Ole Miss,Oklahoma,false
+311,Ole Miss,Kentucky,false
+296,Ole Miss,Georgia Southern,false
+134,Ole Miss,Middle Tennessee,false
+78,Ole Miss,FCS,false
+872,Oregon,Penn State,true
+855,Oregon,Washington,false
+665,Oregon,Maryland,false
+557,Oregon,Illinois,false
+452,Oregon,Ohio State,false
+366,Oregon,Michigan State,false
+170,Oregon,Boise State,false
+82,Oregon,FCS,false
+784,Oregon State,Washington State,false
+654,Oregon State,San José State,false
+519,Oregon State,UNLV,false
+392,Oregon State,Colorado State,false
+301,Oregon State,Purdue,false
+204,Oregon State,Oregon,false
+67,Oregon State,FCS,false
+833,Penn State,Maryland,false
+672,Penn State,Washington,false
+594,Penn State,Ohio State,false
+367,Penn State,UCLA,false
+351,Penn State,Illinois,false
+264,Penn State,Kent State,false
+107,Penn State,Bowling Green,false
+690,Pittsburgh,Clemson,false
+670,Pittsburgh,Virginia,false
+526,Pittsburgh,Syracuse,false
+432,Pittsburgh,California,false
+274,Pittsburgh,FCS,false
+194,Pittsburgh,West Virginia,false
+33,Pittsburgh,Kent State,false
+705,Purdue,Penn State,false
+591,Purdue,Northwestern,false
+470,Purdue,Oregon,false
+310,Purdue,Nebraska,false
+202,Purdue,Notre Dame,false
+34,Purdue,FCS,false
+830,Rice,South Florida,false
+614,Rice,Navy,false
+446,Rice,UTSA,false
+345,Rice,Charlotte,false
+144,Rice,FCS,false
+73,Rice,Sam Houston,false
+749,Rutgers,Illinois,false
+642,Rutgers,Minnesota,false
+478,Rutgers,UCLA,false
+421,Rutgers,Wisconsin,false
+307,Rutgers,Washington,false
+109,Rutgers,Akron,false
+4,Rutgers,FCS,false
+871,SMU,Clemson,true
+839,SMU,California,false
+711,SMU,Boston College,false
+624,SMU,Pittsburgh,false
+354,SMU,Florida State,false
+280,SMU,TCU,false
+100,SMU,BYU,false
+86,SMU,FCS,false
+808,Sam Houston,Liberty,false
+580,Sam Houston,Louisiana Tech,false
+465,Sam Houston,Western Kentucky,false
+321,Sam Houston,Texas State,true
+291,Sam Houston,New Mexico State,false
+224,Sam Houston,Hawai'i,false
+862,San Diego State,Air Force,false
+636,San Diego State,New Mexico,false
+576,San Diego State,Washington State,false
+405,San Diego State,Hawai'i,false
+176,San Diego State,Oregon State,false
+93,San Diego State,FCS,false
+810,San José State,Stanford,false
+740,San José State,UNLV,false
+720,San José State,Boise State,false
+501,San José State,Wyoming,false
+402,San José State,Nevada,false
+222,San José State,Kennesaw State,false
+24,San José State,FCS,false
+807,South Alabama,Texas State,false
+619,South Alabama,Georgia Southern,false
+562,South Alabama,UL Monroe,false
+462,South Alabama,Troy,false
+178,South Alabama,FCS,false
+62,South Alabama,North Texas,false
+779,South Carolina,FCS,false
+716,South Carolina,Missouri,false
+621,South Carolina,Texas A&M,false
+387,South Carolina,Ole Miss,false
+293,South Carolina,Akron,false
+182,South Carolina,LSU,false
+59,South Carolina,Old Dominion,false
+768,South Florida,Tulsa,false
+644,South Florida,Navy,false
+500,South Florida,UAB,false
+439,South Florida,Memphis,true
+285,South Florida,Miami,false
+76,South Florida,FCS,false
+761,Southern Miss,South Alabama,false
+647,Southern Miss,Marshall,false
+508,Southern Miss,Arkansas State,false
+395,Southern Miss,Louisiana,false
+225,Southern Miss,South Florida,false
+145,Southern Miss,FCS,false
+710,Stanford,Louisville,false
+549,Stanford,Wake Forest,false
+517,Stanford,SMU,false
+383,Stanford,Virginia Tech,false
+146,Stanford,FCS,false
+30,Stanford,TCU,false
+845,Syracuse,Miami,false
+746,Syracuse,UConn,false
+592,Syracuse,Virginia Tech,false
+315,Syracuse,FCS,false
+242,Syracuse,Stanford,false
+108,Syracuse,Georgia Tech,false
+47,Syracuse,Ohio,false
+759,TCU,Arizona,false
+666,TCU,Oklahoma State,false
+550,TCU,Texas Tech,false
+364,TCU,Houston,false
+230,TCU,UCF,false
+168,TCU,FCS,false
+819,Temple,North Texas,false
+700,Temple,Florida Atlantic,false
+484,Temple,Tulsa,false
+305,Temple,Army,false
+257,Temple,Utah State,false
+193,Temple,Coastal Carolina,false
+751,Tennessee,UTEP,false
+664,Tennessee,Mississippi State,false
+623,Tennessee,Kentucky,false
+495,Tennessee,Alabama,false
+447,Tennessee,Florida,false
+235,Tennessee,Kent State,false
+41,Tennessee,FCS,false
+869,Texas,Georgia,true
+773,Texas,Kentucky,false
+641,Texas,Florida,false
+513,Texas,Georgia,false
+339,Texas,Mississippi State,false
+297,Texas,UL Monroe,false
+220,Texas,UTSA,false
+45,Texas,Colorado State,false
+857,Texas A&M,Texas,false
+725,Texas A&M,New Mexico State,false
+569,Texas A&M,LSU,false
+370,Texas A&M,Missouri,false
+325,Texas A&M,Arkansas,true
+295,Texas A&M,Bowling Green,false
+114,Texas A&M,FCS,false
+84,Texas A&M,Notre Dame,false
+786,Texas State,Georgia State,false
+721,Texas State,Southern Miss,false
+579,Texas State,Louisiana,false
+448,Texas State,Arkansas State,false
+179,Texas State,Arizona State,false
+133,Texas State,UTSA,false
+88,Texas State,FCS,false
+818,Texas Tech,West Virginia,false
+656,Texas Tech,Colorado,false
+505,Texas Tech,Baylor,false
+355,Texas Tech,Cincinnati,false
+275,Texas Tech,Arizona State,false
+190,Texas Tech,North Texas,false
+81,Texas Tech,FCS,false
+735,Toledo,Ohio,false
+678,Toledo,Central Michigan,false
+554,Toledo,Bowling Green,false
+386,Toledo,Miami (OH),false
+125,Toledo,Massachusetts,false
+13,Toledo,FCS,false
+827,Troy,Southern Miss,false
+613,Troy,Coastal Carolina,false
+361,Troy,Texas State,false
+344,Troy,UL Monroe,false
+283,Troy,FCS,false
+74,Troy,Nevada,false
+799,Tulane,Memphis,false
+658,Tulane,Temple,false
+496,Tulane,Rice,false
+312,Tulane,South Florida,false
+113,Tulane,Kansas State,false
+14,Tulane,FCS,false
+836,Tulsa,Florida Atlantic,false
+683,Tulsa,East Carolina,false
+552,Tulsa,UTSA,false
+371,Tulsa,Army,false
+186,Tulsa,Oklahoma State,false
+18,Tulsa,FCS,false
+755,UAB,Rice,false
+646,UAB,UConn,false
+600,UAB,Tulsa,false
+377,UAB,Tulane,false
+313,UAB,Navy,false
+17,UAB,FCS,false
+813,UCF,Utah,false
+605,UCF,Arizona,false
+556,UCF,BYU,false
+434,UCF,Cincinnati,false
+333,UCF,Colorado,false
+142,UCF,Sam Houston,false
+8,UCF,FCS,false
+835,UCLA,Fresno State,false
+795,UCLA,USC,false
+635,UCLA,Iowa,false
+459,UCLA,Minnesota,false
+360,UCLA,Oregon,false
+232,UCLA,Indiana,false
+584,UConn,Georgia State,false
+548,UConn,Rice,false
+475,UConn,Wake Forest,false
+379,UConn,Temple,false
+309,UConn,Buffalo,false
+284,UConn,Florida Atlantic,false
+103,UConn,FCS,false
+825,UL Monroe,Louisiana,false
+637,UL Monroe,Texas State,false
+444,UL Monroe,Southern Miss,false
+396,UL Monroe,James Madison,false
+155,UL Monroe,UAB,false
+11,UL Monroe,FCS,false
+859,UNLV,Nevada,false
+731,UNLV,San Diego State,false
+528,UNLV,Boise State,false
+365,UNLV,Syracuse,false
+336,UNLV,Fresno State,false
+118,UNLV,FCS,false
+837,USC,Notre Dame,false
+715,USC,Nebraska,false
+529,USC,Rutgers,false
+437,USC,Penn State,false
+331,USC,Wisconsin,false
+177,USC,Utah State,false
+657,UTEP,Kennesaw State,false
+612,UTEP,Middle Tennessee,false
+466,UTEP,Florida International,false
+362,UTEP,Sam Houston,false
+169,UTEP,FCS,false
+738,UTSA,Temple,false
+684,UTSA,North Texas,false
+596,UTSA,Memphis,false
+497,UTSA,Florida Atlantic,false
+272,UTSA,FCS,false
+49,UTSA,Kennesaw State,false
+790,Utah,Iowa State,false
+675,Utah,BYU,false
+520,Utah,TCU,false
+359,Utah,Arizona,false
+129,Utah,Baylor,false
+23,Utah,FCS,false
+775,Utah State,San Diego State,false
+702,Utah State,Hawai'i,false
+506,Utah State,New Mexico,false
+416,Utah State,UNLV,false
+208,Utah State,Utah,false
+31,Utah State,FCS,false
+815,Vanderbilt,Tennessee,false
+659,Vanderbilt,South Carolina,false
+560,Vanderbilt,Texas,false
+509,Vanderbilt,Ball State,false
+391,Vanderbilt,Alabama,false
+164,Vanderbilt,FCS,false
+36,Vanderbilt,Virginia Tech,false
+743,Virginia,SMU,false
+537,Virginia,North Carolina,false
+435,Virginia,Louisville,false
+375,Virginia,Boston College,false
+236,Virginia,Maryland,false
+63,Virginia,FCS,false
+860,Virginia Tech,Virginia,false
+653,Virginia Tech,Clemson,false
+530,Virginia Tech,Georgia Tech,false
+468,Virginia Tech,Boston College,false
+270,Virginia Tech,Rutgers,false
+135,Virginia Tech,Marshall,false
+824,Wake Forest,Duke,false
+633,Wake Forest,California,false
+426,Wake Forest,Clemson,false
+326,Wake Forest,Louisiana,false
+217,Wake Forest,Ole Miss,false
+159,Wake Forest,Virginia,false
+6,Wake Forest,FCS,false
+686,Washington,UCLA,false
+622,Washington,USC,false
+401,Washington,Michigan,false
+286,Washington,Northwestern,false
+199,Washington,Washington State,true
+124,Washington,Eastern Michigan,false
+97,Washington,FCS,false
+851,Washington State,Wyoming,false
+676,Washington State,Utah State,false
+490,Washington State,Hawai'i,false
+244,Washington State,San José State,false
+173,Washington State,Texas Tech,false
+44,Washington State,FCS,false
+770,West Virginia,UCF,false
+714,West Virginia,Baylor,false
+511,West Virginia,Kansas State,false
+457,West Virginia,Iowa State,false
+249,West Virginia,Kansas,false
+137,West Virginia,FCS,false
+40,West Virginia,Penn State,false
+847,Western Kentucky,Jacksonville State,false
+688,Western Kentucky,Louisiana Tech,false
+582,Western Kentucky,Kennesaw State,false
+414,Western Kentucky,UTEP,false
+287,Western Kentucky,Toledo,false
+156,Western Kentucky,FCS,false
+826,Western Michigan,Eastern Michigan,false
+629,Western Michigan,Northern Illinois,false
+551,Western Michigan,Kent State,false
+431,Western Michigan,Akron,false
+218,Western Michigan,FCS,false
+802,Wisconsin,Minnesota,false
+723,Wisconsin,Oregon,false
+570,Wisconsin,Penn State,false
+372,Wisconsin,Purdue,false
+188,Wisconsin,Alabama,false
+120,Wisconsin,FCS,false
+29,Wisconsin,Western Michigan,false
+785,Wyoming,Boise State,false
+563,Wyoming,Utah State,false
+440,Wyoming,San Diego State,false
+357,Wyoming,Air Force,false
+238,Wyoming,BYU,false
+127,Wyoming,FCS,false
