@@ -1,0 +1,875 @@
+home,visitor,is_neutral_site
+Georgia Tech,Florida State,true
+New Mexico,Montana State,false
+Nevada,SMU,false
+Hawai'i,Delaware State,false
+Rutgers,Howard,false
+Bowling Green,Fordham,false
+Wake Forest,North Carolina A&T,false
+NC State,Western Carolina,false
+UCF,New Hampshire,false
+Central Michigan,Central Connecticut,false
+Buffalo,Lafayette,false
+UL Monroe,Jackson State,false
+Arkansas,Arkansas-Pine Bluff,true
+Toledo,Duquesne,false
+Tulane,SE Louisiana,false
+Missouri,Murray State,false
+Kansas,Lindenwood,true
+UAB,Alcorn State,false
+Tulsa,Northwestern State,false
+Jacksonville State,Coastal Carolina,false
+Colorado,North Dakota State,false
+Minnesota,North Carolina,false
+Illinois,Eastern Illinois,false
+Utah,Southern Utah,false
+San José State,Sacramento State,false
+Army,Lehigh,false
+Michigan State,Florida Atlantic,false
+Oklahoma,Temple,false
+Duke,Elon,false
+Wisconsin,Western Michigan,false
+Stanford,TCU,false
+Utah State,Robert Morris,false
+Georgia,Clemson,true
+Pittsburgh,Kent State,false
+Purdue,Indiana State,false
+Navy,Bucknell,false
+Vanderbilt,Virginia Tech,false
+Iowa,Illinois State,false
+Maryland,UConn,false
+Louisville,Austin Peay,false
+West Virginia,Penn State,false
+Tennessee,Chattanooga,false
+Oklahoma State,South Dakota State,false
+Cincinnati,Towson,false
+Washington State,Portland State,false
+Texas,Colorado State,false
+Florida,Miami,false
+Syracuse,Ohio,false
+Northwestern,Miami (OH),true
+UTSA,Kennesaw State,false
+Air Force,Merrimack,false
+Iowa State,North Dakota,false
+Northern Illinois,Western Illinois,false
+Nebraska,UTEP,false
+App State,East Tennessee State,false
+Indiana,Florida International,false
+Ohio State,Akron,false
+Massachusetts,Eastern Michigan,false
+Georgia Southern,Boise State,false
+South Carolina,Old Dominion,false
+California,UC Davis,false
+Marshall,Stony Brook,false
+South Alabama,North Texas,false
+Virginia,Richmond,false
+East Carolina,Norfolk State,false
+Mississippi State,Eastern Kentucky,false
+Liberty,Campbell,false
+Oregon State,Idaho State,false
+Arkansas State,Central Arkansas,false
+Memphis,North Alabama,false
+Baylor,Tarleton State,false
+Alabama,Western Kentucky,false
+Houston,UNLV,false
+Rice,Sam Houston,false
+Troy,Nevada,false
+Kansas State,UT Martin,false
+South Florida,Bethune-Cookman,false
+Middle Tennessee,Tennessee Tech,false
+Ole Miss,Furman,false
+Hawai'i,UCLA,false
+Auburn,Alabama A&M,false
+Texas Tech,Abilene Christian,false
+Oregon,Idaho,false
+Michigan,Fresno State,false
+Texas A&M,Notre Dame,false
+Kentucky,Southern Miss,false
+SMU,Houston Christian,false
+Louisiana Tech,Nicholls,false
+Texas State,Lamar,false
+Louisiana,Grambling,false
+BYU,Southern Illinois,false
+Charlotte,James Madison,false
+Georgia Tech,Georgia State,false
+San Diego State,East Texas A&M,false
+New Mexico State,Southeast Missouri State,false
+Arizona,New Mexico,false
+Arizona State,Wyoming,false
+Washington,Weber State,false
+LSU,USC,true
+Florida State,Boston College,false
+SMU,BYU,false
+Indiana,Western Illinois,false
+Northwestern,Duke,true
+UConn,Merrimack,false
+Florida Atlantic,Army,false
+Cincinnati,Pittsburgh,false
+Michigan,Texas,false
+Penn State,Bowling Green,false
+Syracuse,Georgia Tech,false
+Rutgers,Akron,false
+Memphis,Troy,false
+Oklahoma State,Arkansas,false
+Minnesota,Rhode Island,false
+Tulane,Kansas State,false
+Texas A&M,McNeese,false
+Georgia,Tennessee Tech,false
+Ball State,Missouri State,false
+Kent State,St. Francis (PA),false
+UNLV,Utah Tech,false
+North Carolina,Charlotte,false
+Wisconsin,South Dakota,false
+Maryland,Michigan State,false
+Kentucky,South Carolina,false
+Iowa,Iowa State,false
+Washington,Eastern Michigan,false
+Toledo,Massachusetts,false
+Navy,Temple,false
+Wyoming,Idaho,false
+Boston College,Duquesne,false
+Utah,Baylor,false
+Louisville,Jacksonville State,false
+Notre Dame,Northern Illinois,false
+Auburn,California,false
+Texas State,UTSA,false
+Ole Miss,Middle Tennessee,false
+Virginia Tech,Marshall,false
+Ohio,South Alabama,false
+West Virginia,UAlbany,false
+Old Dominion,East Carolina,false
+Florida International,Central Michigan,true
+James Madison,Gardner-Webb,false
+Miami,Florida A&M,false
+UCF,Sam Houston,false
+Nevada,Georgia Southern,false
+Rice,Texas Southern,false
+Southern Miss,SE Louisiana,false
+Stanford,Cal Poly,false
+Illinois,Kansas,false
+Missouri,Buffalo,false
+Alabama,South Florida,false
+Colorado State,Northern Colorado,false
+Florida,Samford,false
+Coastal Carolina,William & Mary,false
+Arkansas State,Tulsa,false
+Air Force,San José State,false
+UL Monroe,UAB,false
+Western Kentucky,Eastern Kentucky,false
+Georgia State,Chattanooga,false
+Kennesaw State,Louisiana,false
+Wake Forest,Virginia,false
+Ohio State,Western Michigan,false
+NC State,Tennessee,true
+North Texas,Stephen F. Austin,false
+LSU,Nicholls,false
+Vanderbilt,Alcorn State,false
+Nebraska,Colorado,false
+Oklahoma,Houston,false
+Clemson,App State,false
+TCU,Long Island University,false
+UTEP,Southern Utah,false
+Oregon,Boise State,false
+Arizona,Northern Arizona,false
+Fresno State,Sacramento State,false
+Washington State,Texas Tech,false
+New Mexico State,Liberty,false
+Arizona State,Mississippi State,false
+San Diego State,Oregon State,false
+USC,Utah State,false
+South Alabama,Northwestern State,false
+Texas State,Arizona State,false
+Kansas,UNLV,true
+Kansas State,Arizona,false
+South Carolina,LSU,false
+Illinois,Central Michigan,false
+Michigan,Arkansas State,false
+Miami (OH),Cincinnati,false
+Tulsa,Oklahoma State,false
+NC State,Louisiana Tech,false
+Wisconsin,Alabama,false
+Florida State,Memphis,false
+Texas Tech,North Texas,false
+Missouri,Boston College,false
+Buffalo,Massachusetts,false
+Temple,Coastal Carolina,false
+Pittsburgh,West Virginia,false
+Minnesota,Nevada,false
+Miami,Ball State,false
+Florida,Texas A&M,false
+Michigan State,Prairie View A&M,false
+Washington,Washington State,true
+Oklahoma,Tulane,false
+Ohio,Morgan State,false
+Purdue,Notre Dame,false
+Georgia Tech,VMI,false
+Oregon State,Oregon,false
+East Carolina,App State,false
+Iowa,Troy,false
+Arkansas,UAB,false
+Utah State,Utah,false
+Florida Atlantic,Florida International,false
+Liberty,UTEP,false
+Duke,UConn,false
+Old Dominion,Virginia Tech,false
+North Carolina,North Carolina Central,false
+Georgia Southern,South Carolina State,false
+Akron,Colgate,false
+Charlotte,Gardner-Webb,false
+Wake Forest,Ole Miss,false
+Western Michigan,Bethune-Cookman,false
+Middle Tennessee,Western Kentucky,false
+Texas,UTSA,false
+Eastern Michigan,Jacksonville State,false
+San José State,Kennesaw State,false
+Georgia State,Vanderbilt,false
+Sam Houston,Hawai'i,false
+Southern Miss,South Florida,false
+Colorado State,Colorado,false
+Kentucky,Georgia,false
+Baylor,Air Force,false
+Nebraska,Northern Iowa,false
+TCU,UCF,false
+Northwestern,Eastern Illinois,true
+UCLA,Indiana,false
+Auburn,New Mexico,false
+Mississippi State,Toledo,false
+Tennessee,Kent State,false
+Virginia,Maryland,false
+Houston,Rice,false
+Wyoming,BYU,false
+Fresno State,New Mexico State,false
+California,San Diego State,false
+App State,South Alabama,false
+Syracuse,Stanford,false
+Nebraska,Illinois,false
+Washington State,San José State,false
+Mississippi State,Florida,false
+Cincinnati,Houston,false
+Maryland,Villanova,false
+Army,Rice,false
+West Virginia,Kansas,false
+Clemson,NC State,false
+Indiana,Charlotte,false
+North Carolina,James Madison,false
+Ohio State,Marshall,false
+Louisiana,Tulane,false
+Kentucky,Ohio,false
+Central Michigan,Ball State,false
+Temple,Utah State,false
+Eastern Michigan,St. Francis (PA),false
+Coastal Carolina,Virginia,false
+Iowa State,Arkansas State,false
+Jacksonville State,Southern Miss,false
+Nevada,Eastern Washington,false
+Northern Illinois,Buffalo,false
+Penn State,Kent State,false
+LSU,UCLA,false
+Auburn,Arkansas,false
+Navy,Memphis,false
+Louisville,Georgia Tech,false
+Massachusetts,Central Connecticut,false
+Virginia Tech,Rutgers,false
+Notre Dame,Miami (OH),false
+UTSA,Houston Christian,false
+Michigan,USC,false
+Pittsburgh,Youngstown State,false
+Texas Tech,Arizona State,false
+Oklahoma State,Utah,false
+Middle Tennessee,Duke,false
+Missouri,Vanderbilt,false
+Colorado State,UTEP,false
+SMU,TCU,false
+Liberty,East Carolina,false
+Florida International,Monmouth,true
+Troy,Florida A&M,false
+UConn,Florida Atlantic,false
+South Florida,Miami,false
+Washington,Northwestern,false
+Western Kentucky,Toledo,false
+Louisiana Tech,Tulsa,false
+Florida State,California,false
+North Texas,Wyoming,false
+Sam Houston,New Mexico State,false
+Minnesota,Iowa,false
+South Carolina,Akron,false
+Oklahoma,Tennessee,false
+Texas A&M,Bowling Green,false
+Ole Miss,Georgia Southern,false
+Texas,UL Monroe,false
+Boston College,Michigan State,false
+Colorado,Baylor,false
+New Mexico,Fresno State,false
+Oregon State,Purdue,false
+Boise State,Portland State,false
+BYU,Kansas State,false
+Hawai'i,Northern Iowa,false
+Temple,Army,false
+Miami,Virginia Tech,false
+Rutgers,Washington,false
+Kansas State,Oklahoma State,false
+UConn,Buffalo,false
+Purdue,Nebraska,false
+Ole Miss,Kentucky,false
+Tulane,South Florida,false
+UAB,Navy,false
+Baylor,BYU,false
+Syracuse,Holy Cross,false
+NC State,Northern Illinois,false
+Michigan,Minnesota,false
+Boston College,Western Kentucky,false
+Indiana,Maryland,false
+James Madison,Ball State,false
+Sam Houston,Texas State,true
+Miami (OH),Massachusetts,false
+Georgia State,Georgia Southern,false
+Ohio,Akron,false
+Texas A&M,Arkansas,true
+Wake Forest,Louisiana,false
+App State,Liberty,false
+Auburn,Oklahoma,false
+Marshall,Western Michigan,false
+Central Michigan,San Diego State,false
+USC,Wisconsin,false
+Kansas,TCU,true
+UCF,Colorado,false
+Kent State,Eastern Michigan,false
+Notre Dame,Louisville,false
+UNLV,Fresno State,false
+Duke,North Carolina,false
+East Carolina,UTSA,false
+Texas,Mississippi State,false
+Bowling Green,Old Dominion,false
+Florida Atlantic,Wagner,false
+Florida International,Louisiana Tech,true
+Kennesaw State,UT Martin,false
+Troy,UL Monroe,false
+Rice,Charlotte,false
+North Texas,Tulsa,false
+Houston,Iowa State,false
+Clemson,Stanford,false
+Alabama,Georgia,false
+Michigan State,Ohio State,false
+Penn State,Illinois,false
+Memphis,Middle Tennessee,false
+LSU,South Alabama,false
+SMU,Florida State,false
+Texas Tech,Cincinnati,false
+New Mexico State,New Mexico,false
+Wyoming,Air Force,false
+Boise State,Washington State,false
+Utah,Arizona,false
+UCLA,Oregon,false
+Troy,Texas State,false
+UTEP,Sam Houston,false
+Kennesaw State,Jacksonville State,false
+TCU,Houston,false
+UNLV,Syracuse,false
+Oregon,Michigan State,false
+Penn State,UCLA,false
+Air Force,Navy,false
+Louisville,SMU,false
+Texas A&M,Missouri,false
+Tulsa,Army,false
+Wisconsin,Purdue,false
+Northern Illinois,Massachusetts,false
+North Carolina,Pittsburgh,false
+Virginia,Boston College,false
+NC State,Wake Forest,false
+UAB,Tulane,false
+Ball State,Western Michigan,false
+UConn,Temple,false
+Charlotte,East Carolina,false
+Akron,Bowling Green,false
+Georgia,Auburn,false
+Stanford,Virginia Tech,false
+Ohio State,Iowa,false
+Marshall,App State,false
+Toledo,Miami (OH),false
+South Carolina,Ole Miss,false
+Northwestern,Indiana,true
+Oklahoma State,West Virginia,false
+Nebraska,Rutgers,false
+Vanderbilt,Alabama,false
+Oregon State,Colorado State,false
+Arkansas State,South Alabama,false
+Florida State,Clemson,false
+Southern Miss,Louisiana,false
+UL Monroe,James Madison,false
+Coastal Carolina,Old Dominion,false
+Boise State,Utah State,false
+Arkansas,Tennessee,false
+Iowa State,Baylor,false
+Washington,Michigan,false
+San José State,Nevada,false
+Minnesota,USC,false
+Florida,UCF,false
+San Diego State,Hawai'i,false
+Georgia Tech,Duke,false
+Arizona State,Kansas,false
+California,Miami,false
+Arizona,Texas Tech,false
+Liberty,Florida International,false
+Jacksonville State,New Mexico State,false
+James Madison,Coastal Carolina,false
+Louisiana Tech,Middle Tennessee,false
+Western Kentucky,UTEP,false
+Maryland,Northwestern,false
+Utah State,UNLV,false
+Arizona State,Utah,false
+Kent State,Ball State,false
+North Carolina,Georgia Tech,false
+Iowa,Washington,false
+Rutgers,Wisconsin,false
+Buffalo,Toledo,false
+Army,UAB,false
+Alabama,South Carolina,false
+Massachusetts,Missouri,false
+Wake Forest,Clemson,false
+Eastern Michigan,Miami (OH),false
+Bowling Green,Northern Illinois,false
+Notre Dame,Stanford,false
+Oklahoma,Texas,true
+Western Michigan,Akron,false
+Pittsburgh,California,false
+Illinois,Purdue,false
+UCF,Cincinnati,false
+Virginia,Louisville,false
+Georgia State,Old Dominion,false
+USC,Penn State,false
+Colorado State,San José State,false
+South Florida,Memphis,true
+Wyoming,San Diego State,false
+Central Michigan,Ohio,false
+BYU,Arizona,false
+Georgia,Mississippi State,false
+UL Monroe,Southern Miss,false
+Fresno State,Washington State,false
+Rice,UTSA,false
+Tennessee,Florida,false
+Texas State,Arkansas State,false
+Florida Atlantic,North Texas,false
+New Mexico,Air Force,false
+Nevada,Oregon State,false
+Oregon,Ohio State,false
+Louisiana,App State,false
+LSU,Ole Miss,false
+Kentucky,Vanderbilt,false
+NC State,Syracuse,false
+West Virginia,Iowa State,false
+Georgia Southern,Marshall,false
+UCLA,Minnesota,false
+Colorado,Kansas State,false
+Hawai'i,Boise State,false
+South Alabama,Troy,false
+Middle Tennessee,Kennesaw State,false
+New Mexico State,Louisiana Tech,false
+Sam Houston,Western Kentucky,false
+UTEP,Florida International,false
+Marshall,Georgia State,false
+Virginia Tech,Boston College,false
+Duke,Florida State,false
+Purdue,Oregon,false
+BYU,Oklahoma State,false
+Nevada,Fresno State,false
+Missouri,Auburn,false
+Clemson,Virginia,false
+UConn,Wake Forest,false
+Louisville,Miami,false
+Northwestern,Wisconsin,true
+Rutgers,UCLA,false
+Cincinnati,Arizona State,false
+Indiana,Nebraska,false
+Coastal Carolina,Louisiana,false
+Army,East Carolina,false
+Oklahoma,South Carolina,false
+Temple,Tulsa,false
+Eastern Michigan,Central Michigan,false
+Bowling Green,Kent State,false
+Buffalo,Western Michigan,false
+Miami (OH),Ohio,false
+Old Dominion,Texas State,false
+Washington State,Hawai'i,false
+Navy,Charlotte,false
+Kansas,Houston,true
+Northern Illinois,Toledo,false
+Georgia Tech,Notre Dame,true
+Tennessee,Alabama,false
+Tulane,Rice,false
+UTSA,Florida Atlantic,false
+Illinois,Michigan,false
+California,NC State,false
+South Florida,UAB,false
+San José State,Wyoming,false
+Arizona,Colorado,false
+Georgia Southern,James Madison,false
+Maryland,USC,false
+Texas Tech,Baylor,false
+Utah State,New Mexico,false
+Mississippi State,Texas A&M,false
+Southern Miss,Arkansas State,false
+Vanderbilt,Ball State,false
+Arkansas,LSU,false
+West Virginia,Kansas State,false
+Memphis,North Texas,false
+Texas,Georgia,false
+Michigan State,Iowa,false
+Iowa State,UCF,false
+Florida,Kentucky,false
+Stanford,SMU,false
+Air Force,Colorado State,false
+Oregon State,UNLV,false
+Utah,TCU,false
+Florida International,Sam Houston,true
+Louisiana Tech,UTEP,false
+Kennesaw State,Liberty,false
+Jacksonville State,Middle Tennessee,false
+Old Dominion,Georgia Southern,false
+Pittsburgh,Syracuse,false
+Boston College,Louisville,false
+UNLV,Boise State,false
+USC,Rutgers,false
+Virginia Tech,Georgia Tech,false
+Ohio State,Nebraska,false
+Ole Miss,Oklahoma,false
+Indiana,Washington,false
+Memphis,Charlotte,false
+Ohio,Buffalo,false
+Navy,Notre Dame,true
+Virginia,North Carolina,false
+North Texas,Tulane,false
+Mississippi State,Arkansas,false
+App State,Georgia State,false
+East Carolina,Temple,false
+Miami (OH),Central Michigan,false
+Iowa,Northwestern,false
+Ball State,Northern Illinois,false
+James Madison,Southern Miss,false
+Akron,Eastern Michigan,false
+Massachusetts,Wagner,false
+UConn,Rice,false
+Stanford,Wake Forest,false
+TCU,Texas Tech,false
+Western Michigan,Kent State,false
+Tulsa,UTSA,false
+Baylor,Oklahoma State,false
+Toledo,Bowling Green,false
+Minnesota,Maryland,false
+UCF,BYU,false
+Oregon,Illinois,false
+Alabama,Missouri,false
+California,Oregon State,false
+Vanderbilt,Texas,false
+Colorado State,New Mexico,false
+South Alabama,UL Monroe,false
+Wyoming,Utah State,false
+Arkansas State,Troy,false
+Arizona,West Virginia,false
+Miami,Florida State,false
+Houston,Utah,false
+Michigan,Michigan State,false
+Texas A&M,LSU,false
+Wisconsin,Penn State,false
+Kentucky,Auburn,false
+Duke,SMU,false
+Kansas State,Kansas,false
+Fresno State,San José State,false
+Colorado,Cincinnati,false
+San Diego State,Washington State,false
+Hawai'i,Nevada,false
+Florida International,New Mexico State,true
+Texas State,Louisiana,false
+Sam Houston,Louisiana Tech,false
+Liberty,Jacksonville State,false
+Western Kentucky,Kennesaw State,false
+Charlotte,Tulane,false
+UConn,Georgia State,false
+Florida Atlantic,South Florida,false
+Boise State,San Diego State,false
+Eastern Michigan,Toledo,false
+Oklahoma,Maine,false
+Army,Air Force,false
+Miami,Duke,false
+Purdue,Northwestern,false
+Syracuse,Virginia Tech,false
+Akron,Buffalo,false
+Penn State,Ohio State,false
+Arkansas,Ole Miss,false
+UTSA,Memphis,false
+Illinois,Minnesota,false
+NC State,Stanford,false
+Auburn,Vanderbilt,false
+UAB,Tulsa,false
+App State,Old Dominion,false
+Oklahoma State,Arizona State,false
+Houston,Kansas State,false
+Florida State,North Carolina,false
+UCF,Arizona,false
+Michigan,Oregon,false
+Marshall,UL Monroe,false
+Iowa State,Texas Tech,false
+Nebraska,UCLA,false
+Michigan State,Indiana,false
+Georgia,Florida,true
+UTEP,Middle Tennessee,false
+Troy,Coastal Carolina,false
+Rice,Navy,false
+New Mexico,Wyoming,false
+Mississippi State,Massachusetts,false
+Fresno State,Hawai'i,false
+Iowa,Wisconsin,false
+South Alabama,Georgia Southern,false
+Clemson,Louisville,false
+South Carolina,Texas A&M,false
+Washington,USC,false
+Tennessee,Kentucky,false
+SMU,Pittsburgh,false
+Baylor,TCU,false
+Nevada,Colorado State,false
+Central Michigan,Bowling Green,false
+Ball State,Miami (OH),false
+Western Michigan,Northern Illinois,false
+Kent State,Ohio,false
+Coastal Carolina,App State,false
+East Carolina,Florida Atlantic,false
+Wake Forest,California,false
+Memphis,Rice,false
+UCLA,Iowa,false
+San Diego State,New Mexico,false
+UL Monroe,Texas State,false
+Ohio State,Purdue,false
+Georgia Tech,Miami,false
+Boston College,Syracuse,false
+Texas,Florida,false
+Rutgers,Minnesota,false
+Cincinnati,West Virginia,false
+South Florida,Navy,false
+Middle Tennessee,Liberty,false
+UAB,UConn,false
+Southern Miss,Marshall,false
+Kansas,Iowa State,true
+NC State,Duke,false
+Indiana,Michigan,false
+Ole Miss,Georgia,false
+James Madison,Georgia State,false
+Virginia Tech,Clemson,false
+Oregon State,San José State,false
+North Texas,Army,false
+Texas Tech,Colorado,false
+UTEP,Kennesaw State,false
+Tulane,Temple,false
+Vanderbilt,South Carolina,false
+Louisiana Tech,Jacksonville State,false
+Louisiana,Arkansas State,false
+New Mexico State,Western Kentucky,false
+Arizona State,UCF,false
+Tennessee,Mississippi State,false
+Oregon,Maryland,false
+TCU,Oklahoma State,false
+LSU,Alabama,false
+Notre Dame,Florida State,false
+Missouri,Oklahoma,false
+Pittsburgh,Virginia,false
+Boise State,Nevada,false
+Penn State,Washington,false
+Hawai'i,UNLV,false
+Air Force,Fresno State,false
+Utah,BYU,false
+Washington State,Utah State,false
+Bowling Green,Western Michigan,false
+Toledo,Central Michigan,false
+Buffalo,Ball State,false
+Northern Illinois,Akron,false
+Miami (OH),Kent State,false
+Ohio,Eastern Michigan,false
+Tulsa,East Carolina,false
+UTSA,North Texas,false
+Colorado State,Wyoming,false
+Washington,UCLA,false
+Arizona,Houston,false
+Western Kentucky,Louisiana Tech,false
+Navy,Tulane,false
+Pittsburgh,Clemson,false
+Massachusetts,Liberty,false
+Northwestern,Ohio State,true
+Colorado,Utah,false
+Arkansas,Texas,false
+Auburn,UL Monroe,false
+Marshall,Coastal Carolina,false
+Kentucky,Murray State,false
+Alabama,Mercer,false
+Jacksonville State,Florida International,false
+Temple,Florida Atlantic,false
+Illinois,Michigan State,false
+Utah State,Hawai'i,false
+Kennesaw State,Sam Houston,false
+California,Syracuse,false
+Purdue,Penn State,false
+Florida,LSU,false
+Air Force,Oregon State,false
+Charlotte,South Florida,false
+Notre Dame,Virginia,false
+Stanford,Louisville,false
+SMU,Boston College,false
+Old Dominion,James Madison,false
+Georgia Southern,Troy,false
+West Virginia,Baylor,false
+USC,Nebraska,false
+South Carolina,Missouri,false
+Georgia State,Arkansas State,false
+Maryland,Rutgers,false
+Louisiana,South Alabama,false
+San José State,Boise State,false
+Texas State,Southern Miss,false
+Kansas State,Arizona State,false
+Wisconsin,Oregon,false
+Georgia,Tennessee,false
+Texas A&M,New Mexico State,false
+North Carolina,Wake Forest,false
+Memphis,UAB,false
+Iowa State,Cincinnati,false
+New Mexico,Washington State,false
+BYU,Kansas,false
+UNLV,San Diego State,false
+Kent State,Akron,false
+Central Michigan,Western Michigan,false
+Miami (OH),Northern Illinois,false
+Toledo,Ohio,false
+Eastern Michigan,Buffalo,false
+Georgia Tech,NC State,false
+UTSA,Temple,false
+Michigan State,Purdue,false
+San José State,UNLV,false
+Jacksonville State,Sam Houston,false
+Florida,Ole Miss,false
+Virginia,SMU,false
+Ohio State,Indiana,false
+Maryland,Iowa,false
+Syracuse,UConn,false
+Miami,Wake Forest,false
+Boston College,North Carolina,false
+Rutgers,Illinois,false
+Georgia,Massachusetts,false
+Tennessee,UTEP,false
+Liberty,Western Kentucky,false
+Florida State,Charleston Southern,false
+Ball State,Bowling Green,false
+UAB,Rice,false
+Middle Tennessee,New Mexico State,false
+App State,James Madison,false
+Kennesaw State,Florida International,false
+TCU,Arizona,false
+Florida Atlantic,Charlotte,false
+Southern Miss,South Alabama,false
+Arkansas State,UL Monroe,false
+Nebraska,Wisconsin,false
+Kansas,Colorado,true
+Arizona State,BYU,false
+Coastal Carolina,Georgia Southern,false
+California,Stanford,false
+South Florida,Tulsa,false
+Oklahoma State,Texas Tech,false
+West Virginia,UCF,false
+Michigan,Northwestern,false
+Minnesota,Penn State,false
+Texas,Kentucky,false
+Clemson,The Citadel,false
+Utah State,San Diego State,false
+North Texas,East Carolina,false
+Arkansas,Louisiana Tech,false
+Louisville,Pittsburgh,false
+South Carolina,Wofford,false
+Mississippi State,Missouri,false
+Louisiana,Troy,false
+Houston,Baylor,false
+Notre Dame,Army,true
+Oregon State,Washington State,false
+Wyoming,Boise State,false
+Texas State,Georgia State,false
+Oklahoma,Alabama,false
+Auburn,Texas A&M,false
+Old Dominion,Marshall,false
+Utah,Iowa State,false
+LSU,Vanderbilt,false
+Kansas State,Cincinnati,false
+Duke,Virginia Tech,false
+Nevada,Air Force,false
+UCLA,USC,false
+Fresno State,Colorado State,false
+Akron,Toledo,false
+Buffalo,Kent State,false
+Tulane,Memphis,false
+Colorado,Oklahoma State,false
+East Carolina,Navy,false
+Wisconsin,Minnesota,false
+Bowling Green,Miami (OH),false
+Ohio,Ball State,false
+Boise State,Oregon State,false
+Ole Miss,Mississippi State,false
+South Alabama,Texas State,false
+Sam Houston,Liberty,false
+Colorado State,Utah State,false
+San José State,Stanford,false
+Georgia,Georgia Tech,false
+Iowa,Nebraska,false
+UCF,Utah,false
+Clemson,South Carolina,false
+Vanderbilt,Tennessee,false
+Baylor,Kansas,false
+Kentucky,Louisville,false
+Texas Tech,West Virginia,false
+Temple,North Texas,false
+Army,UTSA,false
+Ohio State,Michigan,false
+Northwestern,Illinois,true
+Massachusetts,UConn,false
+Wake Forest,Duke,false
+UL Monroe,Louisiana,false
+Western Michigan,Eastern Michigan,false
+Troy,Southern Miss,false
+Florida International,Middle Tennessee,true
+Georgia State,Coastal Carolina,false
+Rice,South Florida,false
+Boston College,Pittsburgh,false
+Arkansas State,Old Dominion,false
+Penn State,Maryland,false
+Northern Illinois,Central Michigan,false
+UCLA,Fresno State,false
+Tulsa,Florida Atlantic,false
+USC,Notre Dame,false
+North Carolina,NC State,false
+SMU,California,false
+Charlotte,UAB,false
+Michigan State,Rutgers,false
+Alabama,Auburn,false
+Arizona,Arizona State,false
+Missouri,Arkansas,false
+Syracuse,Miami,false
+Louisiana Tech,Kennesaw State,false
+Western Kentucky,Jacksonville State,false
+New Mexico State,UTEP,false
+Cincinnati,TCU,false
+Georgia Southern,App State,false
+Washington State,Wyoming,false
+Indiana,Purdue,false
+Florida State,Florida,false
+LSU,Oklahoma,false
+Oregon,Washington,false
+Iowa State,Kansas State,false
+Texas A&M,Texas,false
+James Madison,Marshall,false
+UNLV,Nevada,false
+Virginia Tech,Virginia,false
+BYU,Houston,false
+San Diego State,Air Force,false
+Hawai'i,New Mexico,false
+Jacksonville State,Western Kentucky,false
+Army,Tulane,false
+Boise State,UNLV,false
+Miami (OH),Ohio,true
+Arizona State,Iowa State,true
+Texas,Georgia,true
+Louisiana,Marshall,false
+SMU,Clemson,true
+Oregon,Penn State,true
+Army,Navy,true
